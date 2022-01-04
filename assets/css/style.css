@@ -11,7 +11,7 @@ body{
 	background-image:url("./../css/baby.jpeg");
 	background-size: cover;
 	background-repeat: no-repeat;
-	height: 650px;
+	height: 700px;
 
 }
 
@@ -26,15 +26,9 @@ body{
 	border-radius:10px;
 	border-bottom:5px solid white;
 	border-top:5px solid white;  
-	transition: all 0.3s ease-in-out;
-}
-.sec1:hover{
 	
-    -ms-transform: scale(1.1);
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1); 
-    z-index: 1;
 }
+
 
 
 
