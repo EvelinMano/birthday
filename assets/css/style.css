@@ -8,10 +8,10 @@ body{
 
 
 #about{
-	background-image:url("./../css/boyy.jpeg");
+	background-image:url("./../css/boyy1.jpeg");
 	background-size: cover;
 	background-repeat: no-repeat;
-	height: 700px;
+	height: 600px;
 
 }
 
@@ -19,13 +19,14 @@ body{
 
 
 .sec1{
-	margin-top:20%;
+	margin-top:50%;
 	background:black;
 	opacity: 0.3;
 	color: white;
 	border-radius:10px;
 	border-bottom:5px solid white;
 	border-top:5px solid white;  
+	height:150px;
 	
 }
 
